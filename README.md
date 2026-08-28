@@ -65,9 +65,9 @@ danaimunjemu:~$ ls -la tech_stack/
   DATA          PostgreSQL · MySQL · DuckDB · MongoDB
 ────────────────────────────────────────────────────────────────
 ```
-
+<div align="center">
 ![Skills](https://skillicons.dev/icons?i=java,python,js,spring,fastapi,react,nextjs,docker,aws,linux,jenkins,postgres,mysql,mongodb)
-
+</div>
 ```
 danaimunjemu:~$ ping frontier_markets --stats
 ────────────────────────────────────────────────────────────────
