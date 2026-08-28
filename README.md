@@ -16,7 +16,7 @@
 ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝ ╚════╝ ╚══════╝╚═╝     ╚═╝ ╚═════╝
 ```
 
-**`SOFTWARE & DEVOPS ENGINEER`** · **`BANKING SYSTEMS`** · **`FRONTIER MARKETS`**
+**`SOFTWARE & DEVOPS ENGINEER`** · **`FINANCIAL SYSTEMS`** · **`WRITER`**
 
 `[ PRESS START TO CONTINUE ]`
 
@@ -26,10 +26,10 @@
 
 ```
 ┌─[ SYSTEM BOOT ]───────────────────────────────────────────────┐
-│  > initializing danai@afc-bank ...                             │
-│  > loading modules: payments.dll  claims.dll  core-banking.dll │
-│  > status: ONLINE                                               │
-└──────────────────────────────────────────────────────────────┘
+│  > initializing danaimunjemu@developer ...                    │
+│  > loading modules: development.dll  finance.dll  writing.dll │
+│  > status: ONLINE                                             │
+└───────────────────────────────────────────────────────────────┘
 ```
 
 ```
@@ -38,7 +38,7 @@ danaimunjemu:~$ whoami
   ROLE          Software & DevOps Engineer
   EMPLOYER      AFC Commercial Bank
   LOCATION      Harare, Zimbabwe
-  EDUCATION     MSc Financial Engineering (WorldQuant University)
+  EDUCATION     MSc Financial Engineering
                 BSc Business Studies and Computing Science
   WRITING       Chronicling the collision of banking & bytes
                 across frontier markets → substack.com/@danaimunjemu
@@ -58,7 +58,7 @@ danaimunjemu:~$ cat server_admin.log
 ```
 danaimunjemu:~$ ls -la tech_stack/
 ────────────────────────────────────────────────────────────────
-  LANGUAGES     Java · Python · JavaScript · SQL
+  LANGUAGES     ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) · Python · JavaScript · SQL
   FRAMEWORKS    Spring Boot · FastAPI · React · Next.js · Angular
   INFRA         Docker · AWS · Linux · Windows
   CI/CD         GitHub Actions · Jenkins
