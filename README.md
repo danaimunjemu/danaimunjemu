@@ -58,13 +58,15 @@ danaimunjemu:~$ cat server_admin.log
 ```
 danaimunjemu:~$ ls -la tech_stack/
 ────────────────────────────────────────────────────────────────
-  LANGUAGES     ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) · Python · JavaScript · SQL
+  LANGUAGES     Java · Python · JavaScript · SQL
   FRAMEWORKS    Spring Boot · FastAPI · React · Next.js · Angular
   INFRA         Docker · AWS · Linux · Windows
   CI/CD         GitHub Actions · Jenkins
   DATA          PostgreSQL · MySQL · DuckDB · MongoDB
 ────────────────────────────────────────────────────────────────
 ```
+
+![Skills](https://skillicons.dev/icons?i=java,python,js,spring,fastapi,react,nextjs,docker,aws,linux,jenkins,postgres,mysql,mongodb)
 
 ```
 danaimunjemu:~$ ping frontier_markets --stats
