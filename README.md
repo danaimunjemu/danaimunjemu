@@ -65,9 +65,9 @@ danaimunjemu:~$ ls -la tech_stack/
   DATA          PostgreSQL · MySQL · DuckDB · MongoDB
 ────────────────────────────────────────────────────────────────
 ```
-<div align="center">
+
 ![Skills](https://skillicons.dev/icons?i=java,python,js,spring,fastapi,react,nextjs,docker,aws,linux,jenkins,postgres,mysql,mongodb)
-</div>
+
 ```
 danaimunjemu:~$ ping frontier_markets --stats
 ────────────────────────────────────────────────────────────────
@@ -82,13 +82,13 @@ danaimunjemu:~$ ping frontier_markets --stats
 
 ```
 ┌─[ CONTACT ]───────────────────────────────────┐
-│  SUBSTACK   substack.com/@danaimunjemu          │
-│  LINKEDIN   linkedin.com/in/danai-munjemu         │
-│  GITHUB     @danaimunjemu                        │
-└─────────────────────────────────────────────────┘
+│  SUBSTACK   substack.com/@danaimunjemu        │
+│  LINKEDIN   linkedin.com/in/danai-munjemu     │
+│  GITHUB     @danaimunjemu                     │
+└───────────────────────────────────────────────┘
 ```
 
-`> GAME PAUSED — CURRENTLY LEVELING UP TOWARD: Quant Developer`
+`> XP — CURRENTLY LEVELING UP TOWARD: Quantitative Development`
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR-HANDLE&color=00ff00&style=flat-square&label=SCANS)
 
